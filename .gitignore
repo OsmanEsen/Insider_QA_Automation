@@ -1,0 +1,8 @@
+target/
+.idea/
+.settings/
+.project
+.classpath
+.factorypath
+*.log
+FailedTestsScreenshots/
