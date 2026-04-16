@@ -1,8 +1,8 @@
 # Insider QA Automation Assessment Project
 
-Selamlar! Bu repo, Senior QA Engineer değerlendirme süreci için hazırladığım otomasyon çözümlerini içeriyor. Projeyi tasarlarken farklı otomasyon tiplerini (UI, API, Load) parca parca gondermek yerine, her şeyin tek bir yerde ama birbirinden izole çalıştığı Unified Test Automation Framework  mimarisini tercih ettim.
+Selamlar! Bu repo, QA Engineer değerlendirme süreci için hazırladığım otomasyon çözümlerini içeriyor. Projeyi tasarlarken farklı otomasyon tiplerini (UI, API, Load) parca parca gondermek yerine, her şeyin tek bir yerde ama birbirinden izole çalıştığı Unified Test Automation Framework  mimarisini tercih ettim.
 
-## 🏗️ Proje Mimarisi ve Kullanılan Teknolojiler
+## Proje Mimarisi ve Kullanılan Teknolojiler
 
 * **UI (Web) Otomasyonu:** Java 21, Selenium WebDriver (v4.19), TestNG. BDD framework'leri (Cucumber vb.) istenmediği için proje tamamen saf **Page Object Model (POM)** prensiplerine sadık kalınarak tasarlandı.
 * **API Otomasyonu:** Java 21, RestAssured, TestNG.
