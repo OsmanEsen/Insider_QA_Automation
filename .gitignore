@@ -6,3 +6,4 @@ target/
 .factorypath
 *.log
 FailedTestsScreenshots/
+load_test/venv/
